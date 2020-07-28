@@ -7,11 +7,8 @@
 
 ## Test Library
 
----
-
-This project is developed to be used as an interview question for Embedded Automation.<br/>
+This project is developed to be used as an interview question for Embedded Automation.<br/><br/>
 The library uses the requests library to grab specifc data and return it.<br/><br/>
-
 The purpose of the test is to do the following:
 
 * Clone the repo (or download zip)
