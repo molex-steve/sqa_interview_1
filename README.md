@@ -74,7 +74,7 @@ testObj = TestController()
 ### Constructor
 
 ```python
-TestController()
+def __init__(self, level=logging.DEBUG)
 ```
 
 | Attribute | Type | Description | Required |
@@ -96,7 +96,7 @@ testObj = TestController()
 Gets the current temperature from the given city.
 
 ```python
-def getWeather(self)
+def getWeather(self, city="")
 ```
 | Attribute | Type | Description | Required |
 | --- | --- | --- | --- |
