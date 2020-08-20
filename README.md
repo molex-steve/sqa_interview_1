@@ -1,4 +1,4 @@
-# Embedded Automation Interview Question 1
+# SQA Interview Question 1
 
 * [Test Library](#test-library)
 * [Test Library API](#test-library-api)
